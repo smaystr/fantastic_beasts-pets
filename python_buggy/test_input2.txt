@@ -1,0 +1,24 @@
+2 u1 e3 d9
+3 u1 e3 d9
+3 u1 d9
+4 u1 d9 e2
+5 u1 d9 e2
+6 u1 d9 e2
+7 u1 d9 e2
+8 u1 d9 e2
+9 u1 d9 e2
+9 u1 e5 e2
+8 u1 e5 e2
+7 u1 e5 e2
+6 u1 e5 e2
+5 u1 e5 e2
+5 u1 e2
+4 u1 e2
+3 u1 e2
+2 u1 e2
+2 u1
+1 u1
+1 e3
+2 e3
+3 e3
+3

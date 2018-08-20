@@ -1,0 +1,24 @@
+2 u1 e3 d9 ----> up, up
+3 u1 e3 d9 ----> stop, up
+3 u1 d9 ----> up, up
+4 u1 d9 e2 ----> up, up
+5 u1 d9 e2 ----> up, up
+6 u1 d9 e2 ----> up, up
+7 u1 d9 e2 ----> up, up
+8 u1 d9 e2 ----> up, up
+9 u1 d9 e2 ----> stop, down
+9 u1 e5 e2 ----> down, down
+8 u1 e5 e2 ----> down, down
+7 u1 e5 e2 ----> down, down
+6 u1 e5 e2 ----> down, down
+5 u1 e5 e2 ----> stop, down
+5 u1 e2 ----> down, down
+4 u1 e2 ----> down, down
+3 u1 e2 ----> down, down
+2 u1 e2 ----> stop, down
+2 u1 ----> down, down
+1 u1 ----> stop, down
+1 e3 ----> up, up
+2 e3 ----> up, up
+3 e3 ----> stop, stop
+3 ----> stop, stop

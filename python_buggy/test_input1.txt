@@ -1,0 +1,25 @@
+1 d6 e3 u6 e8 d8
+2 d6 e3 u6 e8 d8
+3 d6 e3 u6 e8 d8
+3 d6 u6 e8 d8
+4 d6 u6 e8 d8
+5 d6 u6 e8 d8
+6 d6 u6 e8 d8
+6 d6 e10 e8 d8
+7 d6 e10 e8 d8
+8 d6 e10 e8 d8
+8 d6 e10 d8
+9 d6 e10 d8
+10 d6 e10 d8
+10 d6 d8
+9 d6 d8
+8 d6 d8
+8 d6 e3
+7 d6 e3
+6 d6 e3
+6 e3 e2
+5 e3 e2
+4 e3 e2
+3 e3 e2
+3 e2
+2 e2

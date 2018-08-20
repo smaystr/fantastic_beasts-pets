@@ -1,0 +1,25 @@
+1 d6 e3 u6 e8 d8 ----> up, up
+2 d6 e3 u6 e8 d8 ----> up, up
+3 d6 e3 u6 e8 d8 ----> stop, up
+3 d6 u6 e8 d8 ----> up, up
+4 d6 u6 e8 d8 ----> up, up
+5 d6 u6 e8 d8 ----> up, up
+6 d6 u6 e8 d8 ----> stop, up
+6 d6 e10 e8 d8 ----> up, up
+7 d6 e10 e8 d8 ----> up, up
+8 d6 e10 e8 d8 ----> stop, up
+8 d6 e10 d8 ----> up, up
+9 d6 e10 d8 ----> up, up
+10 d6 e10 d8 ----> stop, down
+10 d6 d8 ----> down, down
+9 d6 d8 ----> down, down
+8 d6 d8 ----> stop, down
+8 d6 e3 ----> down, down
+7 d6 e3 ----> down, down
+6 d6 e3 ----> stop, down
+6 e3 e2 ----> down, down
+5 e3 e2 ----> down, down
+4 e3 e2 ----> down, down
+3 e3 e2 ----> stop, down
+3 e2 ----> down, down
+2 e2 ----> stop, stop
