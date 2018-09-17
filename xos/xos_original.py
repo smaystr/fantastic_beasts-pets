@@ -18,7 +18,7 @@ def take_input(player_token):
             print('Invalid input. Are you sure you entered a number?')
             continue
         if player_answer >= 1 and player_answer <= 9:
-            if (str(board[player_answer - 1]) not in "XO"):
+            if str(board[player_answer - 1]) not in "XO":
                 board[player_answer - 1] = player_token
                 valid = True
             else:
